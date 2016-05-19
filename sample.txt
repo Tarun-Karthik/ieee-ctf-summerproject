@@ -1,0 +1,7 @@
+hey hi
+this is the method to push a file to github
+1) clone the repo
+2) add the file to be pushed into the repo folder
+3) type git add filename.filetype
+4) type git commit -m 'message'
+5) type git push origin master
